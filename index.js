@@ -9,5 +9,5 @@ function descrifrar(text, clave) {
     return text.split('').join('')
 }
 
-let s=descrifrar('Un dia soleado', 'asd66')
+let s=descrifrar(r,'asd66')
 console.log(r)
